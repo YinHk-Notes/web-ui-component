@@ -8,7 +8,7 @@ Basic HTML, CSS & Vanilia JavaScript to build in web UI omponents
 - Accordion
 - Dropdown
 - Navigation tabs
-- form
+- Form
 
 
 ### ref 
