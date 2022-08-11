@@ -1,4 +1,4 @@
-# web frontend ui
+# web ui
 Basic HTML, CSS & Vanilia JavaScript to build in web UI omponent
 
 ### How to build these UI:
