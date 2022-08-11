@@ -1,5 +1,5 @@
 # web ui components
-Basic HTML, CSS & Vanilia JavaScript to build in web UI omponent
+Basic HTML, CSS & Vanilia JavaScript to build in web UI omponents
 
 ### How to build these UI:
 - Modal
